@@ -14,7 +14,7 @@ One of the main limitations of SNN is that we don't know how to train them and t
 
 ANNs can be seen as a sub-category of SNN. In fact, a SNN can be reduced to a rate-based network in the "high firing-rate limit" (quoting the authors). 
 
-The main question of the paper then is what kind of computation can we unlock if we manage to train SNN? What is the possible computation?
+One interesting question that was brought up in the paper is what kind of computation can we unlock if we manage to train SNN? What kind of computation becomes possible then?
 
 ---
 ## Main Contribution
@@ -80,4 +80,6 @@ At the end, we get a formula for the gradient that resembles the reward-modulate
 
 
 ## Results
-This approach is tested on a predictive coding task (i.e matching (reproducing) input-output behavior) and delayed-memory XOR task where the XOR operation is performed on the historical input which is stored.
+This approach is tested on a predictive coding task (i.e matching (reproducing) input-output behavior also auto-encoding task) and delayed-memory XOR task where the XOR operation is performed on the historical input which is stored. 
+
+The latter task is used to demonstrate the ability of the algorithm to train an SNN performing a non-linear computations over larger timescales (> time constants).
