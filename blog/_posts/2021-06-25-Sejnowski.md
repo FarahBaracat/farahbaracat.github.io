@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Huh & Sejnowski (2018), Gradient Descent for Spiking Neural Networks
+title: Huh & Sejnowski (2018) - Gradient Descent for Spiking Neural Networks
 tags: [Learning algorithms for SNN]
 include_toc: true
 ---
+You can find the paper [here](https://arxiv.org/abs/1706.04698).
 
 ## Why am I reading this paper?
 I came across this one while researching stochastic vs batch training for SNN. My aim is to better understand how to accumulate the gradients and whether there is a prominent difference between accumulating the gradients in a rate-based networks (ANNs) vs. spiking nets.
