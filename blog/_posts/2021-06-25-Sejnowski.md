@@ -79,7 +79,7 @@ Without going through all the math (partly because I don't like equations that m
 
 At the end, we get a formula for the gradient that resembles the reward-modulated STDP; a presynaptic input is multiplied by a postsynaptic spike activity and a temporal error signal.
 
-
+---
 ## Results
 This approach is tested on a predictive coding task (i.e matching (reproducing) input-output behavior also auto-encoding task) and delayed-memory XOR task where the XOR operation is performed on the historical input which is stored. 
 
