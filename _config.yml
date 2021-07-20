@@ -21,7 +21,7 @@ author:
   name:           'Farah Baracat'
   url:            https://twitter.com/farahbaracat
 
-paginate:         5
+paginate:
 paginate_path: blog/page:num/
 
 # Custom vars
