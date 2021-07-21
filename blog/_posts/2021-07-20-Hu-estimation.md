@@ -27,6 +27,7 @@ The novelty here is, to my opinion 😀, in the MUs cross-trials validation on a
 ## Methods
 - 3 healthy participants
 - HD-EMG data acquired: 8x16 electrode array. Signals sampled at 2048 Hz and bandpassed 10-900 Hz
+  - Load cell used to record the finger forces and angle sensors for joint angles recordings.
 - 2 tasks were performed: isometric finger flexion force (index and middle finger) and dynamic finger movement task (flex and release repetitively)
 
 ### MU identification
