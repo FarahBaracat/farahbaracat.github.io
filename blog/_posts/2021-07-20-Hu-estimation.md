@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xu, Zheng and Hu (2021) - Estimation of Joint Kinematics and Fingertip Forces using Motorneuron Firing Activities. A Preliminary Report 
-tags: [Prosthetic control]
+tags: [Continuous prosthetic control]
 include_toc: true
 ---
 The paper can be found [here](https://ieeexplore.ieee.org/document/9441433).
