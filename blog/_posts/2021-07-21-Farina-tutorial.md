@@ -21,16 +21,18 @@ After going through the paper, I noticed that the question is not addressed but 
 - EMG signal is affected by the timing of the discharges and the waveform of the APs of the MUs since it is the algebraic summation of these motor units APs.
 
 1. **What factors affect the characteristics of MUAPs (MUAP amplitude)?** 
+   
+   First of why this question is important 😀? since MUAPs directly relates to the EMG we might want to know how the shape of the MUAPs comes about (because this would relate to the observed EMG signals).
    - Conduction velocity which is proportional to (scales with) the muscle fiber
    - Number of innervated muscle fibers which is related to the MU recruitment threshold. However, the association of MUAP amplitude and MU recruitment threshold is not very straightforward.
           
 2. **What are the problems with relying on the EMG amplitude to estimate the neural drive?**
    
- > **Note:** For a more detailed description of the limitations of the spectral and amplitude EMG features to infer neural strategies of muscle control, I refer you to the paper by Del Vecchio et al., *Associations between motor unit action potential parameters and surface EMG features*, (2017).
+ > **Note:** For a more detailed description of the limitations of the spectral and amplitude features of  EMG to infer neural strategies of muscle control, I refer you to the paper by Del Vecchio et al., *Associations between motor unit action potential parameters and surface EMG features*, (2017).
 
    - From what I just described above, the association between recruitment threshold and MUAP amplitude is weak as it depends on the distance between muscle fibers and recording electrodes. This means that the association between EMG amplitude and strength of neural drive is not very "clean". As such the link between EMG amplitude and force.
    - EMG amplitude varies across subjects, muscles and time; which makes comparisons across tasks, individuals challenging.
-   - Simulation results of EMG generation revealed the amplitude feature of the signal is only a crude indicator of neural drive. 
+   - Simulation results of EMG generation revealed that the amplitude feature of the signal is only a crude indicator of neural drive. 
         - How did they reach this conclusion? they tested the link between MUAPs (which gives rise to EMG) and recruitment thresholds and found these two variables to be unrelated.
    - On the other hand, the estimated conduction velocity of the MUAPs was showed to be associated with the MU recruitment threshold across subjects and muscles. It forms therefore a more stable basis for estimating the neural drive. I guess what the authors are trying to convey here is that extracting features from the motor unit themselves is a better way to predict the neural drive compared to global features of sEMG.
 
@@ -52,3 +54,6 @@ These challenges (to interpret features form sEMG) has pushed the research commu
 - **Strength of persistent inward currents (PICs)**: these are the currents coming into the motorneurons and can reflect neuromodulatory inputs received by motorneurons.
   
 - **Other physiological information**: such as the motor unit size can be extracted from the amplitude and conduction velocity.
+
+
+In that sense, the MU discharge times and characteristics give us access to a more accurate view of the neural drive and physiological properties which can be exploited to design intuitive controllers.
