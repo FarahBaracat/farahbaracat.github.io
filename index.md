@@ -14,7 +14,7 @@ More precisely, I am researching ways to achieve a more natural, intuitive and e
 #### A little bit more about me
 📍 I am Egyptian, from Cairo 🇪🇬, currently living in Zurich 🇨🇭.
 
-👩🏻‍🎓 I earnt a French Baccalaureate from L'Ecole du Sacré-Coeur in 2011. I then pursued a bachelor degree in Electronics from the American University in Cairo. In 2018, I moved to Zurich for my master's degree in Neural Systems and Computation, ETH/University of Zurich (UZH). Recently, I started my PhD at ETH/UZH.
+👩🏻‍🎓 I earnt a French Baccalaureate from L'Ecole du Sacré-Coeur in 2011. I then pursued a bachelor degree in Electronics Engineering from the American University in Cairo. In 2018, I moved to Zurich for my master's degree in Neural Systems and Computation, ETH/University of Zurich (UZH). Recently, I started my PhD at ETH/UZH.
 
 
 🎾 I am passionate about Tennis. I learnt to play at the age of 6 and competed in national and international competition until I was 24 years old. Although I don't compete anymore, I still play once or twice a week for the love of the game 😇 (if you want to play just hit me up).
