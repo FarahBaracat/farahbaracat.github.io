@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-#### My Research Interest
+## My Research Interest
 My research interest lies at the intersection between neuroscience and man/machine interfaces. In my PhD, I am developping [neuroprosthetic](https://en.wikipedia.org/wiki/Neuroprosthetics) devices that work with the same principles as the peripheral nervous system. 
 
 More precisely, I am researching ways to achieve a more natural, intuitive and efficient control of [EMG-prosthesis](https://en.wikipedia.org/wiki/Electromyography) using spike-based processing.
@@ -11,7 +11,7 @@ More precisely, I am researching ways to achieve a more natural, intuitive and e
 ---
 <div style="margin-bottom:40px;"></div>
 
-#### A little bit more about me
+## A little bit more about me
 📍 I am Egyptian, from Cairo 🇪🇬, currently living in Zurich 🇨🇭.
 
 👩🏻‍🎓 I earnt a French Baccalaureate from L'Ecole du Sacré-Coeur in 2011. I then pursued a bachelor degree in Electronics Engineering from the American University in Cairo. In 2018, I moved to Zurich for my master's degree in Neural Systems and Computation, ETH/University of Zurich (UZH). Recently, I started my PhD at ETH/UZH.
@@ -26,7 +26,7 @@ More precisely, I am researching ways to achieve a more natural, intuitive and e
 ---
 <div style="margin-bottom:50px;"></div>
 
-#### Books I Read / Currently Reading📚
+## Books I Read / Currently Reading📚
 <div style="margin-bottom:40px;"></div>
 
 <a data-pin-do="embedBoard" data-pin-board-width="640" data-pin-scale-height="300" data-pin-scale-width="90" href="https://www.pinterest.ch/baracat0576/reading-list/"></a>
