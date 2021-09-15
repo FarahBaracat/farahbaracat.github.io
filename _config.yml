@@ -22,7 +22,7 @@ author:
   url:            https://twitter.com/farahbaracat
 
 paginate:
-paginate_path: blog/page:num/
+paginate_path:    blog/page:num/
 
 # Custom vars
 version:          2.1.0
