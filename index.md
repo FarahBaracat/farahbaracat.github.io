@@ -6,7 +6,7 @@ title: Home
 ## My Research Interest
 My research interest lies at the intersection between neuroscience and man/machine interfaces. In my PhD, I am developping [neuroprosthetic](https://en.wikipedia.org/wiki/Neuroprosthetics) devices that can work with the same principles as the peripheral nervous system. 
 
-More precisely, I am researching ways to achieve a more natural, intuitive and efficient control of [EMG-prosthesis](https://en.wikipedia.org/wiki/Electromyography) using spike-based processing. Spikes 
+More precisely, I am researching ways to achieve a more natural, intuitive and efficient control of [EMG-prosthesis](https://en.wikipedia.org/wiki/Electromyography) using spike-based processing. 
 
 ---
 <div style="margin-bottom:40px;"></div>
