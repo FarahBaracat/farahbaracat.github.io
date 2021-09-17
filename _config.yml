@@ -12,7 +12,7 @@ plugins:
 
 # Setup
 title:            Farah Baracat
-tagline:          'A Jekyll theme'
+tagline:
 description:      'I am a first year PhD student at  the Institute of Neuroinformatics UZH, Switzerland, in the Neuromorphic Cognitive Systems group '
 url:              http://hyde.getpoole.com
 baseurl:
