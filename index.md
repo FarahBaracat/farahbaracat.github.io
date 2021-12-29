@@ -12,7 +12,7 @@ More precisely, I am researching ways to achieve a more natural, intuitive and e
 <div style="margin-bottom:40px;"></div>
 
 ## A little bit more about me
-📍 I am Egyptian, from Cairo 🇪🇬, currently living in Zurich 🇨🇭.
+📍 I am Egyptian, born and raised in Cairo 🇪🇬, currently living in Zurich 🇨🇭.
 
 👩🏻‍🎓 I earnt a French Baccalaureate from L'Ecole du Sacré-Coeur in 2011. I then pursued a bachelor degree in Electronics Engineering from the American University in Cairo. In 2018, I moved to Zurich for my master's degree in Neural Systems and Computation, ETH/University of Zurich (UZH). Recently, I started my PhD at ETH/UZH.
 
