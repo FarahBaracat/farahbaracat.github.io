@@ -16,7 +16,7 @@ After going through the paper, I noticed that the question is not addressed but 
 
 ---
 ## Extracting neural information from HD-EMG
-![MUAPs_EMG](/blog/figures/farina_tutorial_MUAP_EMG.png)
+![MUAPs_EMG](/lit_review/figures/farina_tutorial_MUAP_EMG.png)
   
 - EMG signal is affected by the timing of the discharges and the waveform of the APs of the MUs since it is the algebraic summation of these motor units APs.
 
@@ -45,7 +45,7 @@ These challenges (to interpret features form sEMG) has pushed the research commu
          - Given this delay characteristic, we would have to measure the discharge properties of the MUs as the subject follows a trapezoidal force trajectories with controlled rates of increase/decrease in force (typically 5-20% MVC/s till they reach a plateau at 35-70% of maximal force).
         - Measuring the recruitment/de-recruitment thresholds can be obtained by looking at the raster plots of the identified motor units. We can clearly see at which force level a new motor unit is being activated.
           
-![MU_recruitment_threshold](/blog/figures/farina_tutorial_recruitment_threshold.png)
+![MU_recruitment_threshold](/lit_review/figures/farina_tutorial_recruitment_threshold.png)
 
 - **Common synaptic input**: we can extract the characteristics (in time and frequency domains) of the common input to the motorneuron pool.
     - Time domain: using cross-correlogram (cross-correlation) between the motor unit discharges.

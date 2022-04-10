@@ -60,7 +60,7 @@ A novel approach for training SNN that is not subjected to specific neuron model
   - Below the active zone, no synaptic response is generated.
   
 which is equivalent to a soft-clipping function.
-![Synaptic_model](/blog/figures/diff_synapse_model.png)
+![Synaptic_model](/lit_review/figures/diff_synapse_model.png)
 
 
 ### Define an entire network around this new formulation
@@ -69,7 +69,7 @@ Now that we have a differentiable synaptic current model, we can formulate the n
 - Network input: defined by the input current vector, $\vec{i }$.
 - Network state: is fully described by the membrane voltage and current, $\vec{v(t)}$, $\vec{s(t)}$.
 - Network output: defined as linear readout of the synaptic current, $\vec{s(t)}$.
-![Network_model](/blog/figures/diff_model.png)
+![Network_model](/lit_review/figures/diff_model.png)
   
 Next step is to optimize the weight matrices for the input layer, recurrent connections and readout, $U$ , $W$ and $O$ which can now be accomplished by gradient descent.
 

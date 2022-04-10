@@ -334,7 +334,7 @@ tbody tr:nth-child(odd) th {
 /*  margin-bottom: 4em;*/
 /*}*/
 
-/* Blog post or page title */
+/* blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
@@ -382,7 +382,7 @@ tbody tr:nth-child(odd) th {
 /*
  * Pagination
  *
- * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * Super lightweight (HTML-wise) lit_review pagination. `span`s are provide for when
  * there are no more previous or next posts to show.
  */
 

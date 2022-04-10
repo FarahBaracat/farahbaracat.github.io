@@ -49,8 +49,8 @@ To validate the decomposition, the separation matrix is computed/derived from a 
 ## Results
 - Estimation joint angle and isometric force from neural drive (MUs) is more accurate than EMG amplitude. It showed a smaller RMSE.
 - For joint angle estimation, EMG amplitude error is around **20 degrees** compared to **8 degrees** for the MU approach during dynamic movement.
-![neural_drive_results](/blog/figures/Hu_neuraldrive_vs_amp.png)
-![neural_drive_MU](/blog/figures/Hu_MUs_neural_drive.png)
+![neural_drive_results](/lit_review/figures/Hu_neuraldrive_vs_amp.png)
+![neural_drive_MU](/lit_review/figures/Hu_MUs_neural_drive.png)
   
 ---
 ## Limitations 
