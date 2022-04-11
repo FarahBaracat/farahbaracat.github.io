@@ -1,19 +1,17 @@
 ---
 layout: page
-title: Blog
+title: Literature Review Papers
 ---
-<h7>More about my day-to-day work (things I have learnt, projects I'm currently working on, challenges, frustrations,
-    random thoughts,etc...).
-</h7>
+<p class="message">
+    ⚠️ Page still under construction 🐢 🏗
+</p>
+<h7>A collection of relatively short posts summarizing my notes of selected literature papers. </h7>
 
 <div class="tags-expo-section">
     {% assign sorted_tags = site.tags | sort %}
-    {% assign tag_log = "sEMG Project" %}
-
+     {% assign tag_log = "sEMG Project" %}
     {% for tag in sorted_tags %}
-<!--    <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>-->
-
-    {% if tag[0]  == tag_log %}
+    {% if tag[0]  != tag_log %}
     <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
@@ -30,3 +28,4 @@ title: Blog
     {% endif %}
     {% endfor %}
   </div>
+
