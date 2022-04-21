@@ -24,8 +24,11 @@ author:
 paginate:
 paginate_path:    lit_review/page:num/
 
+
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+exclude:          [vendor]
