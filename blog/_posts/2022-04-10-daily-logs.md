@@ -21,15 +21,18 @@ planing to answer are:
 ## Day 1: April 10, 2022 
 ### Today's Progress
 - Setup this blog series
-- Read about the dataset I will use and muscle synergies
+- Read about the dataset I will use and muscle synergies ([My notes](2022-04-10-ninapro_description.md))
 
 
 ### Thoughts
 Extremely excited to start this project yet very tired already. Woke up at 3.30 am and its almost 8 am now...will 
 probably go back to sleep now :D
 
+----
+## Day 2: April 12, 2022
+- Not very productive, was skimming through for papers on regression-based control [notes](2022-04-12-zshell.md).
 
-
+---
 ## Day 3: April 21, 2022
 ### Today's Progress
 - Spend a good amount of time (maybe 2 hours) debugging how to build my website. I had problems after upgrading to 
@@ -39,6 +42,6 @@ a new bundler version (e.g website not building, live-reload not working, unable
 - Some literature review on proportional control ([My Notes](2022-04-21-proportional_control.md))
 
 ### Thoughts
-Great progress today, still a long way to go though.
+Great progress today, still a long way to go
 
 
