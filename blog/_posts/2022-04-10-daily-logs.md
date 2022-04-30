@@ -42,7 +42,7 @@ a new bundler version (e.g website not building, live-reload not working, unable
 - Some literature review on proportional control ([My Notes](2022-04-21-proportional_control.md))
 
 ### Thoughts
-Great progress today, still a long way to go
+Great progress today, still a long way to go.
 
 
 ---
@@ -55,5 +55,5 @@ Great progress today, still a long way to go
 ## Day 5: April 26, 2022
 ### Today's Progress
 - In the past days, I was working on the demo for Capocaccia's 2022 with the MIA hand. We wanted to have a pipeline 
-  ready in which  a spiking neural network is mapped onto a neuromorphic chip which interfaces with the hand.
-- 
+  ready in which a spiking neural network is mapped onto a neuromorphic chip which interfaces with the hand.
+- Continued working on the [EDA notebook](https://github.com/FarahBaracat/ninapro_db8)

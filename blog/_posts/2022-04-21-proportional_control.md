@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 3-Literature Review
+title: Day 3-Literature Review on Proportional Control
 tags: [sEMG Project]
 include_toc: true
 ---
