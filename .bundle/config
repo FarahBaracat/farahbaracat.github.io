@@ -1,0 +1,5 @@
+---
+BUNDLE_SYSTEM: "true"
+BUNDLE_PATH: "system"
+BUNDLE_BUILD__EVENTMACHINE: "--with-openssl-dir=/opt/homebrew/opt/openssl@1.1"
+BUNDLE_GIT__ALLOW_INSECURE: "true"
