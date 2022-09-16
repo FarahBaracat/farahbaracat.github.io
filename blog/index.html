@@ -8,12 +8,12 @@ title: Daily Blog
 
 <div class="tags-expo-section">
     {% assign sorted_tags = site.tags | sort %}
-    {% assign tag_log = "sEMG Project" %}
+<!--    {% assign tag_log =  %}-->
+<!--    {% assign tag_log_2 = "ICL Project" %}-->
+
 
     {% for tag in sorted_tags %}
-<!--    <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>-->
-
-    {% if tag[0]  == tag_log %}
+    {% if tag[0]  == "Capocaccia'22 Project" or tag[0] == "ICL Project" %}
     <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}

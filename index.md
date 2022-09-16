@@ -29,4 +29,5 @@ More precisely, I am researching ways to achieve a more natural, intuitive and e
 ## Books I Read / Currently Reading📚
 <div style="margin-bottom:40px;"></div>
 
-<a data-pin-do="embedBoard" data-pin-board-width="640" data-pin-scale-height="300" data-pin-scale-width="90" href="https://www.pinterest.ch/baracat0576/reading-list/"></a>
+<a data-pin-do="embedBoard" data-pin-board-width="640" data-pin-scale-height="350" data-pin-scale-width="90" 
+href="https://www.pinterest.ch/baracat0576/reading-list/"></a>

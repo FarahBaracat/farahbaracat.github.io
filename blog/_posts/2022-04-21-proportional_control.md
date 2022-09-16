@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 3-Literature Review on Proportional Control
-tags: [sEMG Project]
+tags: [Capocaccia'22 Project]
 include_toc: true
 ---
 
