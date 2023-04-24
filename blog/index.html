@@ -8,12 +8,10 @@ title: Daily Blog
 
 <div class="tags-expo-section">
     {% assign sorted_tags = site.tags | sort %}
-<!--    {% assign tag_log =  %}-->
-<!--    {% assign tag_log_2 = "ICL Project" %}-->
-
-
     {% for tag in sorted_tags %}
-    {% if tag[0]  == "Capocaccia'22 Project" or tag[0] == "ICL Project" %}
+      {% if tag[0]  == "Capocaccia'23 Project"  %}  
+      <!-- or tag[0] == "ICL Project" -->
+
     <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
@@ -28,5 +26,5 @@ title: Daily Blog
       {% endfor %}
     </ul>
     {% endif %}
-    {% endfor %}
+  {% endfor %}
   </div>
