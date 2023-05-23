@@ -6,24 +6,25 @@ title: Literature Review
 <h7>My notes on selected papers. </h7>
 
 <div class="tags-expo-section">
-    {% assign sorted_tags = site.tags | sort %}
-     {% assign tag_log = "Capocaccia'22 Project" %}
-    {% for tag in sorted_tags %}
-    {% if tag[0]  != tag_log and tag[0] != "ICL Project"%}
-    <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ post.url }}">
+  {% assign sorted_tags = site.tags | sort %}
+  {% assign tag_log = "Capocaccia'22 Project" %}
+  {% for tag in sorted_tags %}
+  {% if tag[0] != tag_log and tag[0] != "ICL Project" and tag[0] != "CapoCaccia 22 Project" and tag[0]!= "CapoCaccia 23
+  Project" and tag[0] != "CapoCaccia 22 Project Prep" and tag[0]!= "CapoCaccia Workshop 23 - Sessions Notes" and
+  tag[0]!= "notes CC 23"%}
+  <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
+  <ul class="tags-expo-posts">
+    {% for post in tag[1] %}
+    <a class="post-title" href="{{ post.url }}">
       <li>
         <p>
-            {{ post.title }}  <small class="post-date">{{ post.date | date_to_string }}</small>
+          {{ post.title }} <small class="post-date">{{ post.date | date_to_string }}</small>
 
         </p>
       </li>
-      </a>
-      {% endfor %}
-    </ul>
-    {% endif %}
+    </a>
     {% endfor %}
-  </div>
-
+  </ul>
+  {% endif %}
+  {% endfor %}
+</div>

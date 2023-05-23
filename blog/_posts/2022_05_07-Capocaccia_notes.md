@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes Capocaccia' 22
+title: Notes CapoCaccia 22
 tags: [CapoCaccia 22 Project Prep]
 include_toc: true
 ---
