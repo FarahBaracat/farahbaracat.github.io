@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zambrano & Bohte &#40;2016&#41; -  Fast and Efficient Asynchronous Neural Computation with Adapting Spiking)
+title: Zambrano & Bohte; -  Fast and Efficient Asynchronous Neural Computation with Adapting Spiking)
 tags: [Neuron models approximated with a form of ADM]
 ---
 
