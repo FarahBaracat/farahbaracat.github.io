@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Synergistic Organization of Motor neurons and Hand Muscles
-tags: [Capocaccia'22 Project]
+tags: [CapoCaccia 22 Project]
 include_toc: true
 ---
 

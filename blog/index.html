@@ -3,28 +3,28 @@ layout: page
 title: Daily Blog
 ---
 <h7>More about my day-to-day work (things I have learnt, projects I'm currently working on, challenges, frustrations,
-    random thoughts,etc...).
+  random thoughts,etc...).
 </h7>
+<!-- or tag[0] == "ICL Project"  -->
 
 <div class="tags-expo-section">
-    {% assign sorted_tags = site.tags | sort %}
-    {% for tag in sorted_tags %}
-      {% if tag[0]  == "Capocaccia'23 Project"  %}  
-      <!-- or tag[0] == "ICL Project" -->
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+  {% if tag[0] == "CapoCaccia 22 Project Prep" or tag[0] == "CapoCaccia Workshop 23 - Sessions Notes" %}
 
-    <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ post.url }}">
+  <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
+  <ul class="tags-expo-posts">
+    {% for post in tag[1] %}
+    <a class="post-title" href="{{ post.url }}">
       <li>
         <p>
-            {{ post.title }}  <small class="post-date">{{ post.date | date_to_string }}</small>
+          {{ post.title }} <small class="post-date">{{ post.date | date_to_string }}</small>
 
         </p>
       </li>
-      </a>
-      {% endfor %}
-    </ul>
-    {% endif %}
+    </a>
+    {% endfor %}
+  </ul>
+  {% endif %}
   {% endfor %}
-  </div>
+</div>

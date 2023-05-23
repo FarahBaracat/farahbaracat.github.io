@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Day 1-Notes on Ninapro database, muscle synergies, MEMS
-tags: [Capocaccia'22 Project]
+title: Notes on Ninapro database, muscle synergies, MEMS
+tags: [CapoCaccia 22 Project Prep]
 include_toc: true
 ---
 

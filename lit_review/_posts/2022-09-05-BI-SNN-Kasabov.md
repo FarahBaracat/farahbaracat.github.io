@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kumarasinghe, et al. (2021) - Brain-inspired SNN for decoding and understanding muscle activity and kinematics from EEG signals during hand movements.
-tags: [Continuous prosthetic control]
+tags: [Proportional prosthesis control]
 include_toc: true
 ---
 

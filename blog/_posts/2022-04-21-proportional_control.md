@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Day 3-Literature Review on Proportional Control
-tags: [Capocaccia'22 Project]
+title: Literature Review on Proportional Control
+tags: [CapoCaccia 22 Project Prep]
 include_toc: true
 ---
 
