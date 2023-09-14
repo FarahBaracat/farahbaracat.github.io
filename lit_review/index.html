@@ -11,7 +11,7 @@ title: Literature Review
   {% for tag in sorted_tags %}
   {% if tag[0] != tag_log and tag[0] != "ICL Project" and tag[0] != "CapoCaccia 22 Project" and tag[0]!= "CapoCaccia 23
   Project" and tag[0] != "CapoCaccia 22 Project Prep" and tag[0]!= "CapoCaccia Workshop 23 - Sessions Notes" and
-  tag[0]!= "notes CC 23"%}
+  tag[0]!= "notes CC 23" and tag[0]!= "ZNZ Symposiums"%}
   <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
   <ul class="tags-expo-posts">
     {% for post in tag[1] %}

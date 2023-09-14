@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily Blog
+title: Workshops & Projects
 ---
 <h7>More about my day-to-day work (things I have learnt, projects I'm currently working on, challenges, frustrations,
   random thoughts,etc...).
@@ -10,7 +10,7 @@ title: Daily Blog
 <div class="tags-expo-section">
   {% assign sorted_tags = site.tags | sort %}
   {% for tag in sorted_tags %}
-  {% if tag[0] == "CapoCaccia 22 Project Prep" or tag[0] == "CapoCaccia Workshop 23 - Sessions Notes" %}
+  {% if tag[0] == "CapoCaccia 22 Project Prep" or tag[0] == "CapoCaccia Workshop 23 - Sessions Notes"%}
 
   <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
   <ul class="tags-expo-posts">
