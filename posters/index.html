@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Posters (ZNZ Symposiums)
+title: My Posters 
 ---
-<h7>More about my day-to-day work (things I have learnt, projects I'm currently working on, challenges, frustrations,
-  random thoughts,etc...).
+<h7>A list of posters I have presented at conferences and symposiums.
 </h7>
 
 <div class="tags-expo-section">
   {% assign sorted_tags = site.tags | sort %}
   {% for tag in sorted_tags %}
-  {% if tag[0] == "ZNZ Symposiums" %}
+  {% if tag[0] == "ZNZ Symposiums" or  tag[0]== "ISEK" %}
   <h3 id="{{ tag[0] | slugify }}">{{ tag | first }}</h3>
   <ul class="tags-expo-posts">
     {% for post in tag[1] %}
