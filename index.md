@@ -3,10 +3,13 @@ layout: default
 title: Home
 ---
 
-## My Research Interest
-My research interest lies at the intersection between neuroscience and man/machine interfaces. In my PhD, I am developping [neuroprosthetic](https://en.wikipedia.org/wiki/Neuroprosthetics) devices that can work with the same principles as the peripheral nervous system. 
+## My Research Interest (🧠 + 🦾)
+I know this has been said countless times, but hear me out... I’m genuinely fascinated by how our central and peripheral nervous systems generate movement. In my PhD, I explore ways to **decode motor intentions from EMG signals** (electrical recordings of skeletal muscle activity) to create more natural, intuitive, and energy-efficient control commands for myoelectric interfaces.  
 
-More precisely, I am researching ways to achieve a more natural, intuitive and efficient control of [EMG-prosthesis](https://en.wikipedia.org/wiki/Electromyography) using spike-based processing. 
+My work focuses on spike-based processing, inspired by the way information is transmitted in the brain 🧠, and integrates the now-popular spiking neural networks (SNNs) to develop more accurate and responsive motor control, with the goal of efficiently running these models on neuromorphic chips (hopefully? 🤷🏻‍♀️).  
+
+What excites me the most? Experimenting with human subjects! I love designing experiments to test new ideas for improving EMG-based movement decoding, running real-time tests with participants (especially potential prosthesis users 🦾!), gathering feedback, and iterating to refine the system even further.  
+<!-- My research interest lies at the intersection between neuroscience and human-machine interfaces. In my PhD, I research ways to decode motor intentions during finger movements from EMG with aim to achieve a more natural, intuitive and efficient control of [EMG-prosthesis](https://en.wikipedia.org/wiki/Electromyography) (a very lame reference to Wikipedia :D) using spike-based processing.  -->
 
 ---
 <div style="margin-bottom:40px;"></div>
