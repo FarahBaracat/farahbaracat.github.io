@@ -3,7 +3,7 @@ layout: post
 title: What Tennis Competitions From the Age of 12 Taught Me Now in My 30's
 tags: [Reflections]
 include_toc: true
-cover: /writing/figures/trophies-3.jpeg
+cover: /writing/figures/trophy-piano-cropped.jpg
 ---
 
 I have always known sport is good for you. It shapes your personality from a young age. I know it, you know it. What’s been interesting to me lately is how that shows up 20 years later. I could now see how it has helped my 30-year-old self through a PhD.
