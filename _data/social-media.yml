@@ -5,11 +5,11 @@ email:
   fa-icon: 'fa-envelope'
 
 
-twitter:
-  id: 'farahbaracat'
-  href: 'https://www.twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter'
+linkedin:
+  id: 'farah-baracat'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin'
 
 github:
   id: 'FarahBaracat'

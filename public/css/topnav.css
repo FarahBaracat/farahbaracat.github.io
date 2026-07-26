@@ -86,7 +86,7 @@ a:hover, a:focus {
   display: flex;
   align-items: center;
   justify-self: center;
-  gap: 2.5rem;
+  gap: 4.5rem;
   font-size: 1.3rem;
   color: var(--color-muted);
 }
