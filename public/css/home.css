@@ -1,0 +1,121 @@
+/*
+ * Gallery-style redesign, Phase 2: home page hero (photo + bio card).
+ */
+
+.home-page .container {
+  max-width: 64rem;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 0 0 2rem;
+}
+
+.hero-photo {
+  border-radius: 1.25rem;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+}
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-card {
+  background-color: #F6E3A8;
+  border-radius: 1.25rem;
+  padding: 1.75rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}
+
+.hero-bio {
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #1a1a1a;
+  margin: 0;
+}
+
+.hero-tagline {
+  font-size: 1.15rem;
+  color: var(--color-text);
+  max-width: 42rem;
+  margin: 0 0 3rem;
+}
+.hero-tagline .hero-arrow {
+  text-decoration: none;
+  border-bottom: none;
+  margin-left: 0.2rem;
+}
+
+@media (max-width: 40em) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+  .hero-photo {
+    aspect-ratio: 4 / 3;
+  }
+}
+
+/* ---- About list (icon | vertical rule | text) ---- */
+
+.about-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  margin: 2rem 0;
+}
+
+.about-item {
+  display: flex;
+  align-items: stretch;
+  gap: 1.25rem;
+}
+
+.about-icon {
+  flex-shrink: 0;
+  width: 3.5rem;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.about-rule {
+  flex-shrink: 0;
+  width: 1px;
+  background-color: var(--color-border);
+}
+
+.about-text {
+  margin: 0;
+  line-height: 1.6;
+}
+.about-text a {
+  color: var(--color-muted);
+  text-decoration: none;
+}
+.about-text a:hover {
+  color: var(--color-text);
+}
+
+@media (max-width: 40em) {
+  .about-item {
+    gap: 0.9rem;
+  }
+  .about-icon {
+    width: 1.6rem;
+  }
+}
+
+.pin-board-wrap {
+  display: flex;
+  justify-content: center;
+}

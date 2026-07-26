@@ -4,14 +4,16 @@
   {% include head.html %}
 
 
-  <body class="theme-base-0d">
+  <body{% if page.url == '/' %} class="home-page"{% endif %}>
 
-    {% include sidebar.html %}
+    {% include topnav.html %}
 
     <div class="content container">
       {{ content }}
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
     </div>
+
+    {% include footer.html %}
 
   </body>
 </html>

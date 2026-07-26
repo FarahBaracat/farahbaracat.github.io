@@ -3,6 +3,7 @@ layout: post
 title: What Tennis Competitions From the Age of 12 Taught Me Now in My 30's
 tags: [Reflections]
 include_toc: true
+cover: /writing/figures/trophies-3.jpeg
 ---
 
 I have always known sport is good for you. It shapes your personality from a young age. I know it, you know it. What’s been interesting to me lately is how that shows up 20 years later. I could now see how it has helped my 30-year-old self through a PhD.
@@ -25,7 +26,7 @@ But that's just not how I do it 😅.
 
 I would stay until the very end, until the deadline has actually passed, working and keep trying to make it happen. Many times I would actually catch up. The paper gets submitted. The paper gets accepted. The demo works. I make it to the conference. This is not always the case to be fair, but it definitely happened quite often.
 
-<div style="background-color: #e5e5e5; color: #515151; padding: 0.85rem 1.05rem; margin: 1.5rem 0;">
+<div style="background-color: #F6E3A8; color: #1a1a1a; padding: 0.85rem 1.05rem; margin: 1.5rem 0; border-radius: 1.25rem;">
 Because somewhere along the way, 12-year-old me learned that as long as the match isn’t over, I’m still playing. I will be on that court, regardless of the score, fighting for every point until the “Game, Set, Match” call. Any second before that, I just don't care, I am fighting for it.
 </div>
 

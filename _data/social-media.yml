@@ -2,17 +2,23 @@ email:
   id: 'farahbaracat@gmail.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-envelope'
 
 
 twitter:
   id: 'farahbaracat'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-twitter'
 
 github:
   id: 'FarahBaracat'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-github'
+
+scholar:
+  id: 'RNCU4x4AAAAJ&hl=en'
+  href: 'https://scholar.google.com/citations?user='
+  title: 'Google Scholar'
+  fa-icon: 'fa-graduation-cap'

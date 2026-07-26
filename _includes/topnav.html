@@ -1,0 +1,25 @@
+<header class="topnav">
+  <div class="topnav-inner">
+    <a class="topnav-brand" href="{{ site.baseurl }}/">
+      <span class="topnav-mark">FB</span>
+      <span class="topnav-wordmark">{{ site.title }}</span>
+    </a>
+
+    <div class="topnav-social">
+      {% include social-media-links.html %}
+    </div>
+
+    <nav class="topnav-links">
+      <a class="topnav-link{% if page.url == site.baseurl or page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+
+      {% assign pages_list = site.pages | sort: "nav_order" %}
+      {% for node in pages_list %}
+        {% if node.title != null and node.nav_exclude != true %}
+          {% if node.layout == "page" %}
+            <a class="topnav-link{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>

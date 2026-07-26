@@ -1,24 +1,23 @@
 ---
 layout: page
 title: Blog
-nav_order: 1
+nav_order: 0.25
 ---
 <h7 style="display: block; margin-bottom: 1.5rem;"> Basically just dumping whatever’s rattling around in my brain here, partly to relieve the pressure on my poor neurons, partly to give these ideas somewhere roomier to bounce around.
 </h7>
 
-<div class="tags-expo-section">
-  <ul class="tags-expo-posts">
-    {% for post in site.posts %}
-    {% if post.url contains "/writing/" %}
-    <a class="post-title" href="{{ post.url }}">
-      <li>
-        <p>
-          {{ post.title }} <small class="post-date">{{ post.date | date_to_string }}</small>
-
-        </p>
-      </li>
-    </a>
+<div class="post-grid">
+  {% for post in site.posts %}
+  {% if post.url contains "/writing/" %}
+  <a class="post-card" href="{{ post.url }}">
+    {% if post.cover %}
+    <div class="post-card-cover">
+      <img src="{{ post.cover }}" alt="{{ post.title }}">
+    </div>
     {% endif %}
-    {% endfor %}
-  </ul>
+    <p class="post-card-title">{{ post.title }}</p>
+    <p class="post-card-date">{{ post.date | date_to_string }}</p>
+  </a>
+  {% endif %}
+  {% endfor %}
 </div>

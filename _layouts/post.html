@@ -4,6 +4,9 @@ layout: default
 
 <div class="post">
   <h2 class="post-title">{{ page.title }}</h2>
+  {% if page.cover %}
+    <img class="post-cover" src="{{ page.cover }}" alt="{{ page.title }}">
+  {% endif %}
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% include toc.html content=page.content include_toc=page.include_toc %}
   {{ content }}

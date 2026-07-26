@@ -1,0 +1,253 @@
+/*
+ * Gallery-style redesign, Phase 1: top nav + typography/color foundation.
+ * Layered after poole.css / hyde.css to override the old sidebar layout.
+ */
+
+:root {
+  --color-bg:      #ffffff;
+  --color-text:    #1a1a1a;
+  --color-muted:   #6b6b6b;
+  --color-border:  #e5e5e5;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  color: var(--color-text);
+}
+
+.tags-expo-section h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+a:hover, a:focus {
+  color: var(--color-text);
+  text-decoration: underline;
+}
+
+/* ---- Top nav ---- */
+
+.topnav {
+  border-bottom: 1px solid var(--color-border);
+  background-color: var(--color-bg);
+}
+
+.topnav-inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.topnav-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  text-decoration: none;
+  color: var(--color-text);
+}
+.topnav-brand:hover {
+  text-decoration: none;
+}
+
+.topnav-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--color-text);
+  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.topnav-wordmark {
+  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+}
+
+.topnav-social {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  font-size: 1.3rem;
+  color: var(--color-muted);
+}
+.topnav-social a {
+  color: var(--color-muted);
+  text-decoration: none;
+  line-height: 1;
+}
+.topnav-social a:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.topnav-links {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.topnav-link {
+  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text);
+  text-decoration: none;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid transparent;
+}
+.topnav-link:hover,
+.topnav-link.active {
+  border-bottom: 1px solid var(--color-text);
+  text-decoration: none;
+}
+
+@media (max-width: 40em) {
+  .topnav-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .topnav-links {
+    gap: 1rem;
+  }
+}
+
+/* ---- Content area: remove old fixed-sidebar offsets ---- */
+
+.content {
+  padding-top: 0;
+  padding-bottom: 4rem;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: none;
+}
+
+.container {
+  max-width: 44rem;
+  padding-top: 3rem;
+}
+
+/* ---- Post cover image ---- */
+
+.post-cover {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+/* ---- Post grid (Blog listing) ---- */
+
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.post-card {
+  display: block;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.post-card-cover {
+  border-radius: 0.85rem;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  background-color: var(--color-border);
+  margin-bottom: 0.85rem;
+}
+.post-card-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.post-card-cover-wide {
+  aspect-ratio: auto;
+  background-color: transparent;
+}
+.post-card-cover-wide img {
+  width: 100%;
+  height: auto;
+  object-fit: initial;
+}
+
+.post-card-title {
+  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0 0 0.25rem;
+}
+.post-card:hover .post-card-title {
+  text-decoration: underline;
+}
+
+.post-card-date {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin: 0;
+}
+
+/* ---- Footer ---- */
+
+.sitefooter {
+  border-top: 1px solid var(--color-border);
+  margin-top: 4rem;
+}
+
+.sitefooter-inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: center;
+}
+
+.sitefooter-social {
+  font-size: 1.1rem;
+  color: var(--color-text);
+}
+.sitefooter-social a {
+  color: var(--color-text);
+  text-decoration: none;
+  margin: 0 0.4rem;
+}
+
+.sitefooter-copy {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin: 0;
+}
