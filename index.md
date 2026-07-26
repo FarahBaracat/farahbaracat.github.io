@@ -9,7 +9,7 @@ title: Home
   </div>
   <div class="hero-card">
     <p class="hero-bio">
-      I’m an engineer at heart who got so intrigued by neuroscience and by understanding how we generate such fine motor skills that I ended up pursuing a PhD in the field. My research is application-driven and focuses on decoding motor intent from peripheral signals to control external devices.
+      I’m an engineer at heart who got so intrigued by <strong>neuroscience</strong> and by understanding how we generate such fine motor skills that I ended up pursuing a PhD in the field. My research is <strong>application-driven</strong> and focuses on <strong>decoding motor intent</strong> from peripheral signals to control external devices.
     </p>
   </div>
 </section>

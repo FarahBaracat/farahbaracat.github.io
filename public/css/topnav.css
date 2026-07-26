@@ -76,7 +76,7 @@ a:hover, a:focus {
 }
 
 .topnav-wordmark {
-  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 1.15rem;
   letter-spacing: 0.01em;
@@ -86,7 +86,7 @@ a:hover, a:focus {
   display: flex;
   align-items: center;
   justify-self: center;
-  gap: 0.9rem;
+  gap: 2.5rem;
   font-size: 1.3rem;
   color: var(--color-muted);
 }
@@ -109,7 +109,7 @@ a:hover, a:focus {
 }
 
 .topnav-link {
-  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -156,6 +156,33 @@ a:hover, a:focus {
   padding-top: 3rem;
   margin-left: auto !important;
   margin-right: auto !important;
+}
+
+/* ---- Post typography ---- */
+
+.post {
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+.post-title {
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+a.post-title {
+  text-decoration: none;
+}
+a.post-title:hover {
+  text-decoration: none;
+}
+
+/* ---- Page typography (Research, etc.) ---- */
+
+.page {
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+.page-title {
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 /* ---- Post cover image ---- */
@@ -208,7 +235,7 @@ a:hover, a:focus {
 }
 
 .post-card-title {
-  font-family: "Space Grotesk", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-size: 1rem;
   line-height: 1.4;
