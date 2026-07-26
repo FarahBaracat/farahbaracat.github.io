@@ -18,22 +18,22 @@ title: Home
   <div class="about-item">
     <span class="about-icon">📍</span>
     <span class="about-rule"></span>
-    <p class="about-text">I am Egyptian, born and raised in Cairo, currently living in Zürich.</p>
+    <p class="about-text">I am Egyptian, born and raised in <strong>Cairo</strong>, currently living in <strong>Zürich</strong>.</p>
   </div>
   <div class="about-item">
     <span class="about-icon">👩🏻‍🎓</span>
     <span class="about-rule"></span>
-    <p class="about-text">I earnt a French Baccalaureate from L'Ecole du Sacré-Coeur in 2011. Pursued a BSc. in Electronics Engineering from the American University in Cairo. In 2018, moved to Zürich for my MSc. degree in Neural Systems and Computation, University of Zürich and ETH Zürich. Started my PhD in March 2021 at the <a href="https://www.ini.uzh.ch/en.html">Institute of Neuroinformatics</a>.</p>
+    <p class="about-text">I earnt a <strong>French Baccalaureate</strong> from L'Ecole du Sacré-Coeur in 2011. Pursued a BSc. in Electronics Engineering from the American University in Cairo. In 2018, moved to Zürich for my <strong>MSc.</strong> degree in Neural Systems and Computation, University of Zürich and ETH Zürich. Started my <strong>PhD</strong> in March 2021 at the <a href="https://www.ini.uzh.ch/en.html">Institute of Neuroinformatics</a>.</p>
   </div>
   <div class="about-item">
     <span class="about-icon">🎾</span>
     <span class="about-rule"></span>
-    <p class="about-text">I am passionate about Tennis. I learnt to play at the age of 6 and competed in national and international competition until I was 24 years old. Although I don't compete anymore, I still play once or twice a week for the love of the game.</p>
+    <p class="about-text">I am passionate about <strong>Tennis</strong>. I learnt to play at the age of 6 and competed in national and international competition until I was 24 years old. Although I don't compete anymore, I still play once or twice a week for the love of the game.</p>
   </div>
   <div class="about-item">
     <span class="about-icon">🎼</span>
     <span class="about-rule"></span>
-    <p class="about-text">I play the piano. Started my piano lessons at the age of 6 as well. I earned Trinity Guidhall diplomas grade 2-8. Now, I enjoy composing piano pieces in my spare time (it helps me relax).</p>
+    <p class="about-text">I play the piano. Started my piano lessons at the age of 6 as well. I earned <strong>Trinity Guidhall diplomas</strong> grade 2-8. Now, I enjoy composing piano pieces in my spare time (it helps me relax).</p>
   </div>
   <div class="about-item">
     <span class="about-icon">🧶</span>
@@ -53,7 +53,7 @@ title: Home
   <div class="about-item">
     <span class="about-icon">✍🏻</span>
     <span class="about-rule"></span>
-    <p class="about-text">I like writing articles (usually on random or personal topics) and publishing them from time to time on <a href="https://farah-baracat.medium.com/">Medium</a>, but now, you'll find the more recent posts on my <a href="/writing/">Blog</a> page. During college, I pursued a minor degree in Rhetoric and Composition (because why not) and it made me realize how much I enjoy writing. To be fair, now it seems like people are not writing anymore, but I promise everything here is human-made.</p>
+    <p class="about-text">I like <strong>writing articles</strong> (usually on random or personal topics) and publishing them from time to time on <a href="https://farah-baracat.medium.com/">Medium</a>, but now, you'll find the more recent posts on my <a href="/writing/">Blog</a> page. During college, I pursued a minor degree in Rhetoric and Composition (because why not) and it made me realize how much I enjoy writing. To be fair, now it seems like people are not writing anymore, but <strong>I promise everything here is human-made</strong>.</p>
   </div>
 </div>
 
@@ -61,7 +61,7 @@ title: Home
 ---
 <div style="margin-bottom:50px;"></div>
 
-## Books I Read / Currently Reading
+## Books I Read | Currently Reading
 <div style="margin-bottom:40px;"></div>
 
 <div class="pin-board-wrap">

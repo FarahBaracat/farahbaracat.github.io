@@ -4,6 +4,8 @@ title: Research
 nav_order: 0.5
 ---
 
+<div style="margin-top: 1.5rem;"></div>
+
 I know this has been said countless times, but hear me out... I’m genuinely fascinated by how our central and peripheral nervous systems generate movement. In my PhD, I explore ways to **decode motor intentions from EMG signals** (electrical recordings of skeletal muscle activity) to create more natural, intuitive, and energy-efficient control commands for myoelectric interfaces.
 
 My work focuses on spike-based processing, inspired by the way information is transmitted in the brain, and integrates the now-popular spiking neural networks (SNNs) to develop more accurate and responsive motor control, with the goal of efficiently running these models on neuromorphic chips (hopefully?).

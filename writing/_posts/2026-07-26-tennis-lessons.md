@@ -8,7 +8,7 @@ cover: /writing/figures/trophies-3.jpeg
 
 I have always known sport is good for you. It shapes your personality from a young age. I know it, you know it. What’s been interesting to me lately is how that shows up 20 years later. I could now see how it has helped my 30-year-old self through a PhD.
 
-Competing in an individual sport (I can’t say much about team sports, although I imagine many people can relate there too), it’s a one-man show. For me that was me, my brain, my racket, my body and a court. You are fully responsible for every decision, and you make hundreds of them in a single match.
+Competing in an individual sport (I can’t say much about team sports, although I imagine many people can relate there too), is a one-man show. For me that was me, my brain, my racket, my body and a court. You are fully responsible for every decision, and you make hundreds of them in a single match.
 
 One thing I learned, and that somehow became part of my personality, is to never let go. To persevere even at times when the odds are not in your favor, when it doesn’t even make sense, when it seems even impossible and losing is inevitable.
 Because the moment I let go there is no other outcome than losing. But if I do my best and try, it’s not 100% probability anymore, there is a chance, even if small, that I come back.  And even if I don't, I still walk away with the feeling of accomplishment and pride that comes from fighting until the very end.
@@ -34,6 +34,6 @@ Because somewhere along the way, 12-year-old me learned that as long as the matc
 
 <!-- This is all possible thanks to my beautiful parents! -->
 
-I'm beyond words grateful for my parents for this mindset. For spending all the time, effort, and money to make sure we could learn a sport at a young age, and for being there every single step of the way: all the training session, all the matches, all the tournaments, all the travels, boot-camps, they would find the time and be there with me. I honeslly don’t recall a single training session or match where I was alone. 
+I'm beyond words grateful for my parents for this mindset. For spending all the time, effort, and money to make sure we could learn a sport at a young age, and for being there every single step of the way: all the training session, all the matches, all the tournaments, all the travels, boot-camps, they would find the time and be there with me. I honestly don’t recall a single training session or match where I was alone. 
 
 I realize how much that shaped who I am today, 20 years later.
