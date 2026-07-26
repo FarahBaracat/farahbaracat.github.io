@@ -31,8 +31,8 @@ Because somewhere along the way, 12-year-old me learned that as long as the matc
 
 <!-- Because in a match, 13 year old me learned that I will be present on court despite any odds and play my best up until the moment the chair would call for a “game, set, match.” Any second before that call, I don’t care, I am fighting for it. -->
 
-This is all possible thanks to my beautiful parents!
+<!-- This is all possible thanks to my beautiful parents! -->
 
-I'm beyond words grateful for them for this mindset. For spending all the time, effort, and money to make sure we could learn a sport at a young age, and for being there every single step of the way: all the training session, all the matches, all the tournaments, all the travels, boot-camps, they would find the time and be there with me. I honeslly don’t recall a single training session or match where I was alone. 
+I'm beyond words grateful for my parents for this mindset. For spending all the time, effort, and money to make sure we could learn a sport at a young age, and for being there every single step of the way: all the training session, all the matches, all the tournaments, all the travels, boot-camps, they would find the time and be there with me. I honeslly don’t recall a single training session or match where I was alone. 
 
 I realize how much that shaped who I am today, 20 years later.
