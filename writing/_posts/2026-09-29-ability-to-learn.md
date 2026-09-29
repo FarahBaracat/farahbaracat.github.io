@@ -53,7 +53,7 @@ I can feel that lack of discipline when I open a long article and realize that u
 
 Soooo… I reach for ChatGPT.
 
-And instead of going through that whole process, I just prompt it to explain the topic to me. I might ask a few follow-up questions, go in one direction, then another, until I feel like I’ve got the picture. And I get this sense of relief, like, okay, I have it now.
+And instead of going through that whole process, I just prompt it to explain the topic to me. I might ask a few follow-up questions, go in one direction, then another, until I feel like I’ve got the picture. And I get this immediate sense of relief, like, okay, I have it now.
 
 Except… I don’t really have the picture in my brain. I have it only in writing, somewhere in this ChatGPT conversation.
 
