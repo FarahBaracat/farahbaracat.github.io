@@ -89,5 +89,5 @@ So:
 
 > Have I lost some of my ability to learn?<br>
 > Am I simply using AI the wrong way?<br>
-> Is AI removing too much of the struggle from the learning process?
+> Is AI removing too much of the struggle from the learning process?<br>
 > Or have I slowly lost my patience for the resistance that learning requires?
