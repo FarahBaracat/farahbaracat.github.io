@@ -29,19 +29,14 @@ If you stopped me anywhere along the way (and hopefully you wouldn’t, because 
 
 **Why?**
 
-Maybe because I had managed to push through my own brain’s resistance.
+Maybe because I had managed to push through *my own brain’s resistance to the effort and uncertainty learning requires*. That resistance to reading one more article when I really didn’t want to, but reading it anyway. To having to decide what to read, what not to read, when to let go of an article, and when to search for something else. To controlling how I absorbed information, at what rate, and slowly building associations between concepts in my head.
 
-The resistance of not wanting to read one more article.
+<!-- Maybe because I had managed to push through my *own brain’s resistance to the effort and uncertainty learning requires*. The resistance of not wanting to read one more article, but reading it anyway. Of having to decide what to read, what not to read, when to let go of an article, and when to search for something else. Of controlling how I absorbed information, at what rate, and slowly building associations between concepts in my head. -->
 
-The effort of deciding what to read, what not to read, when to let go of an article, and when to search for something else.
-
-The control over how I absorbed information, and build associations between concepts and at what rate.
-
-And, maybe most importantly, the discomfort of not understanding.
-
-That feeling of being puzzled by something you’ve just read, sitting with it for a while, trying again, looking somewhere else, coming back, and slowly untangling the knots.
+And, maybe most importantly, to sitting with the discomfort of not understanding. That feeling of being puzzled by something you’ve just read, sitting with it for a while, trying again, looking somewhere else, coming back, and slowly untangling the knots.
 
 This is not easy!
+
 
 **And now?**
 
